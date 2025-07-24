@@ -1,0 +1,7 @@
+apiVersion: v2
+appVersion: 1.0.0
+description: Generated helm chart created for service "spring-petclinic-azure" with
+  stackgen
+name: spring-petclinic-azure
+type: application
+version: 0.1.0

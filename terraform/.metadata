@@ -1,0 +1,7 @@
+{
+  "app_stack_name": "spring-petclinic-azure",
+  "iac_type": "Terraform",
+  "provider": "azure",
+  "multi_env": false,
+  "exporter": "terraform"
+}
